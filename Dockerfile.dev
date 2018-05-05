@@ -1,4 +1,4 @@
-FROM ruby:2.4-alpine
+FROM ruby:2.4-alpine3.6
 MAINTAINER SquareScale Engineering <engineering@squarescale.com>
 LABEL maintainer "SquareScale Engineering <engineering@squarescale.com>"
 LABEL name "SquareScale demo app"
